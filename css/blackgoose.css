@@ -1,0 +1,41 @@
+img{
+
+    padding-left: 550px;
+
+}
+h2{
+    padding-right: 200px;
+    padding-left: 200px;
+
+}
+
+
+
+
+
+
+h1{
+    text-align: center;
+    font-family: "Calibri Light";
+    color: black;
+font-size: 60px;
+
+}
+h2{
+    color: firebrick;
+    font-family: "Calibri Light";
+
+}
+hr{color: blue;
+
+}
+p{
+    padding-right: 200px;
+    padding-left: 200px;
+    font-size: 20px;
+
+}
+b{
+
+    background-color: bisque;
+}
