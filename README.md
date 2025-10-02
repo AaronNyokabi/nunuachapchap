@@ -1,0 +1,1 @@
+This is a Python-based web scraping utility designed to collect current pricing data from major e-commerce platforms. It solves the problem of manual data collection, providing users with a clean, standardized dataset for competitive market analysis and trend tracking. It uses BeautifulSoup and Requests for efficient, parallel data fetching.
